@@ -16,8 +16,8 @@ This code requires the APC PER3 propeller performance data. A single file is inc
 "Wing_Plotter_2Taper.m" calculates the area and shape of the wing, using a double taper design.
 
 I would suggest the order of scripts to be: 
-1. Constraints_incomplete
-2. Wing_Plotter (1 or 2 Taper, defines the wing shape possible)
+1. Constraints
+2. Wing_Plotter (1 or 2 Taper, defines the wing shape)
 3. HTail_Plotter
 4. VTail_Plotter
 5. (Optional, for solid wings) Foam_Wing_Structure_Calculator
